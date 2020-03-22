@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name" : "1,500 live ladybugs",
+      "price" : "$3.05",
+      "details" : "Who says you can't buy anything for under $10 anymore? In fact, Amazon shoppers can buy 1,500 crawling, flying somethings for the bargain price of a latte.",
+      "image" : "ladybug.jpg"
+    },
+    {
+      "name" : "Uranium ore",
+      "price" : "$39.95",
+      "details" : "While this small amount of uranium ore is pretty low on the radioactivity meter, it's pretty weird that you can buy it from the same site where you get your gym socks.",
+      "image" : "uranium-ore.jpg"
+    },
+    {
+      "name" : "Bacon-scented mustache",
+      "price" : "$4.07",
+      "details" : "Now you can smell bacon all day in peace, its scent hidden in an inconspicuous piece of facial hair. Sure beats rubbing pig fat on your upper lip.",
+      "image" : "bacon-mustache.jpg"
+    },
+    {
+      "name" : "Desktop refrigerator",
+      "price" : "$38.00",
+      "details" : "Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips.",
+      "image" : "pocket-fridge.jpg"
+    },
+    {
+      "name" : "Nicolas Cage sequin pillowcase",
+      "price" : "$24.95",
+      "details" : "The only thing better than a festive red sparkly pillowcase is one that morphs into Nicolas Cage's face with the satisfying swipe of your hand.",
+      "image" : "nicolas-cage-pillow.jpg"
+    }
+  ]
+}
